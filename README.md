@@ -1,7 +1,5 @@
-# robbie
+# Robbie
 Media Information at your Fingertips
-
-<img align="right" height="260" src="http://poile.me/robbie/img/logo.png">
 
 ## Docs
 ### `robbie`, the friendly robot
